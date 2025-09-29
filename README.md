@@ -11,6 +11,7 @@
 - Hadoop, Cloudera Manager
 
 📫 Контакты:
+
 email: alex-s.mishin@yandex.ru
 
 Telegram: @alex_mishin

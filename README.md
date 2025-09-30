@@ -12,7 +12,7 @@
 
   ### 📊 Мои проекты
 
-####  [Прогнозирование оттока клиентов](https://github.com/garcettix/project_15_bank_churn)
+####  [Аналитика оттока клиентов](https://github.com/garcettix/project_15_bank_churn)
 - Стек: Python, Matplotlib
 
 
